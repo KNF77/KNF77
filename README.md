@@ -16,8 +16,6 @@
 - 🐍 Je développe en **Python**
 - ⚙️ Je programme en **C++**
 - 🔐 Débutant passionné par la **cybersécurité**
-- 🌱 Toujours en train d'apprendre et de progresser
-- 🚀 Je travaille sur différents projets pour améliorer mes compétences
 
 ---
 
